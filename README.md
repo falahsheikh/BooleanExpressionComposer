@@ -1,8 +1,8 @@
-# Boolean Expression Constructor
+# Boolean Expression Composer
 
 ## Overview
 
-The Boolean Expression Constructor is a simple Java program that helps users construct a Boolean expression based on a truth table. Given the number of variables, it generates a truth table and allows the user to specify the true values for each row. The program then constructs a Boolean expression based on the rows where the result is true.
+The Boolean Expression Composer is a simple Java program that helps users construct a Boolean expression based on a truth table. Given the number of variables, it generates a truth table and allows the user to specify the true values for each row. The program then constructs a Boolean expression based on the rows where the result is true.
 
 ## Getting Started
 
